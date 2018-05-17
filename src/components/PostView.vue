@@ -1,16 +1,14 @@
 <template>
-    <div class="waiting">
-    </div>    
+  <div class="waiting">
+  </div>
 </template>
 <script>
-export default {
-}
+  export default {}
 </script>
 <style scoped>
- .waiting {
+  .waiting {
     padding: 10px;
     color: #555;
   }
+
 </style>
-
-
